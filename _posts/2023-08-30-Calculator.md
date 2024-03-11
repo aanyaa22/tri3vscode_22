@@ -3,7 +3,7 @@ toc: true
 comments: false
 layout: post
 title: Calculator MD
-description: Grab of the Calculator from APCSA repo.
+description: my calculate.
 type: ccc
 courses: { csse: {week: 0} }
 ---

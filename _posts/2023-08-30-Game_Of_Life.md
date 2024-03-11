@@ -3,7 +3,7 @@ toc: true
 comments: false
 layout: post
 title: Game of Life
-description: Grab of the Game of Life from APCSA repo.
+description: the Game of Life.
 type: ccc
 courses: { csse: {week: 0} }
 ---
