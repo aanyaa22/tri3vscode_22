@@ -4,7 +4,7 @@ comments: false
 layout: post
 title: snake game
 description: this is my snake game
-type: tangibles
+type: ccc
 courses: { compsci: {week: 2} }
 ---
 <style>
