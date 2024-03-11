@@ -5,7 +5,7 @@ layout: post
 title: Calculator MD
 description: Grab of the Calculator from APCSA repo.
 type: ccc
-courses: { compsci: {week: 3} }
+courses: { csse: {week: 3} }
 ---
 
 <style>

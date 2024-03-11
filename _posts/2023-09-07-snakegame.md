@@ -5,7 +5,7 @@ layout: post
 title: snake game
 description: this is my snake game
 type: ccc
-courses: { compsci: {week: 2} }
+courses: { csse: {week: 2} }
 ---
 <style>
 
