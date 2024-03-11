@@ -5,7 +5,7 @@ layout: post
 title: Game of Life
 description: Grab of the Game of Life from APCSA repo.
 type: ccc
-courses: { csse: {week: 2} }
+courses: { csse: {week: 0} }
 ---
 
 {% comment %}
