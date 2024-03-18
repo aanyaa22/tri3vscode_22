@@ -1,6 +1,6 @@
 ---
 toc: true
-comments: false
+comments: falsecd tri3v
 layout: post
 title: snake game
 description: this is my snake game
@@ -271,7 +271,7 @@ courses: { csse: {week: 0} }
             }
             // Repaint canvas
             ctx.beginPath();
-            ctx.fillStyle = "royalblue";
+            ctx.fillStyle = "orange";
             ctx.fillRect(0, 0, canvas.width, canvas.height);
             // Paint snake
             for(let i = 0; i < snake.length; i++){
@@ -332,11 +332,11 @@ courses: { csse: {week: 0} }
         /////////////////////////////////////////////////////////////
         let appleDot = function(x, y){
     ctx.font = "16px Arial"; // Adjust the font size here (e.g., 10px, 12px)
-    ctx.fillText("🍎", x * BLOCK, y * BLOCK);
+    ctx.fillText("🦋", x * BLOCK, y * BLOCK);
 }
 let snakeDot = function(x, y){
     ctx.font = "16px Arial"; // Adjust the font size here (e.g., 10px, 12px)
-    ctx.fillText("🦖", x * BLOCK, y * BLOCK);
+    ctx.fillText("👨‍👨‍👦", x * BLOCK, y * BLOCK);
 }
         /* Random food placement */
         /////////////////////////////////////////////////////////////

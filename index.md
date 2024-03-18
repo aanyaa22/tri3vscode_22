@@ -197,3 +197,13 @@ Explore the Computer Science Pathway at Del Norte High School. All Del Norte Com
 - Course learning includes Coding Languages, DevOps, GitHub, Research and Creativity
 - Student teams practice Agile Development Methodologies: planning, communication, collaboration
 - Class lab time provided and approximately 2-3 hours of homework per week
+
+
+ABOUT ME 
+- My name is Aanya Ahmad 
+- I'm muslim 
+- I'm a sophomore 
+- I moved from India last year
+- I'm a shy person 
+- I love cats 
+- I love listening to music
